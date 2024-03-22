@@ -2,6 +2,10 @@
 *.iml
 .idea/
 
+# Gradle configuration.
+.gradle/
+build/
+
 # User configuration.
 local.properties
 
